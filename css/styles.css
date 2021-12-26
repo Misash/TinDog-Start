@@ -132,8 +132,16 @@ h2{
 
 
 
+/* Pricing Section */
 
+#pricing{
+    padding:100px;
+    text-align: center;
+}
 
+.padding-col{
+    padding: 3% 2%;
+}
 
 
 
